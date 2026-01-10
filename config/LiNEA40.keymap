@@ -7,12 +7,12 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/pointing.h>
 
-#define MOUSE 1
-#define MARK 2
-#define CURSOR 3
-#define FUNCTION 4
-#define SCROLL 5
-#define WIRELESS 6
+#define NOTUSED  1
+#define MOUSE    2
+#define NUMBER   3
+#define SYMBOL   4
+#define SPECIAL  5
+#define LAYER6   6
 
 //mouse cursol
 

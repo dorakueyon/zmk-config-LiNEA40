@@ -12,7 +12,7 @@
 #define FUNCTION 4
 #define SCROLL 5
 #define WIRELESS 6
-
+    
 //mouse cursol
 &mmv {
     delay-ms = <20>;
