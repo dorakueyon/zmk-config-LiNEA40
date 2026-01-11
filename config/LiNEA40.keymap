@@ -157,7 +157,7 @@
             bindings = <
 &kp CARET               &kp EXCLAMATION              &kp AMPERSAND      &kp PIPE              &kp DOLLAR                               &kp AT_SIGN         &kp EQUAL            &kp PLUS         &kp ASTERISK     &kp PERCENT
 &mt LEFT_CONTROL MINUS  &mt LEFT_SHIFT LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS                    &kp LEFT_ARROW      &kp DOWN_ARROW       &kp UP_ARROW     &kp RIGHT_ARROW  &kp SQT
-&mt LEFT_SHIFT MINUS    &kp HASH                     &kp BACKSLASH      &kp LEFT_BRACE        &kp RIGHT_BRACE                          &kp LG(LEFT_ARROW)  &kp LG(RIGHT_ARROW)  &kp LC(LS(TAB))  &kp LC(TAB)      &kp LC(LA(DOUBLE_QUOTES))
+&mt LEFT_SHIFT MINUS    &kp HASH                     &kp BACKSLASH      &kp LEFT_BRACE        &kp RIGHT_BRACE                          &kp LG(LEFT_ARROW)  &kp LG(RIGHT_ARROW)  &kp LC(LS(TAB))  &kp LC(TAB)      &kp DOUBLE_QUOTES
 &kp LEFT_ALT            &trans                       &trans             &trans                &trans                 &trans    &trans  &trans                                   &trans           &trans           &trans
             >;
         };
