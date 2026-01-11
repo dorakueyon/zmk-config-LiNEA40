@@ -6,12 +6,12 @@
 #include <input/processors.dtsi>
 #include <zephyr/dt-bindings/input/input-event-codes.h>
 
-#define MOUSE 1
-#define MARK 2
-#define CURSOR 3
-#define FUNCTION 4
-#define SCROLL 5
-#define WIRELESS 6
+#define NOTUSED  1
+#define MOUSE    2
+#define NUMBER   3
+#define SYMBOL   4
+#define SPECIAL  5
+#define LAYER6   6
     
 //mouse cursol
 &mmv {
