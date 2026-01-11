@@ -19,12 +19,12 @@
         compatible = "zmk,input-processor-temp-layer";
         #input-processor-cells = <2>;
         excluded-positions = <
-            22  // Z
-            30  // M
-            31  // ,
-            32  // .
-            34  // Shift
-            36  // Command
+            21  // Z
+            27  // M
+            28  // ,
+            29  // .
+            30  // Shift
+            32  // Command
         >;
     };
     trackball_listener {
