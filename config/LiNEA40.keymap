@@ -15,6 +15,11 @@
 #define SPECIAL  5
 #define LAYER6   6
 
+&mt {
+    flavor = "balanced";
+    quick-tap-ms = <0>;
+};
+
 //mouse cursol
 
 &mmv {
